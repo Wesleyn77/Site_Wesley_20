@@ -1,0 +1,9 @@
+body {
+    color: rgb(3, 3, 3);
+    background-color: cornsilk;
+    background-size: cover;
+    background-image: url(ATHLETICO.jpeg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
